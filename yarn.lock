@@ -3384,6 +3384,11 @@ jsonfile@^6.0.1:
   optionalDependencies:
     graceful-fs "^4.1.6"
 
+kafkajs@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/kafkajs/-/kafkajs-2.0.1.tgz#c6ecccbe77ea6a976e80e2c119353182394f0f3f"
+  integrity sha512-UCR/MxWvLNqV6HAidD9fb4qwzgJA2GmxzhZWbeBMgRe7noeadRMdGYTpvjW8hm6WtOlMqPdr5cdfpMEKmQXVHw==
+
 kleur@^3.0.3:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/kleur/-/kleur-3.0.3.tgz#a79c9ecc86ee1ce3fa6206d1216c501f147fc07e"
